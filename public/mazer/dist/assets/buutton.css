@@ -1,0 +1,14 @@
+<style type="text/css">
+    .dataTables_wrapper .dt-buttons {
+        font-size: 12px;
+        /* Atur ukuran font sesuai yang Anda inginkan */
+        padding: 4px 8px;
+        /* Atur padding sesuai kebutuhan Anda */
+    }
+
+    .dataTables_wrapper .dt-buttons button {
+        border-radius: 20%;
+        /* Membuat tombol menjadi bulat */
+    }
+
+    </style>
